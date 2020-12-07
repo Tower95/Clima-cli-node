@@ -1,7 +1,7 @@
 ## Aplicacion cli de Clima
 
 
-Se nesesita ejecutar  ```npm install``
+Se nesesita ejecutar  ```npm install```
 
 ### Ejemplo:
 
